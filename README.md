@@ -20,7 +20,7 @@ TODO
 - 《编码:隐匿在计算机软硬件背后的语言》 
 - [《Web性能权威指南》](https://book.douban.com/subject/25856314/)
 
-### No-fiction
+### Non-fiction
 
 - 《人类简史》
 - 《时间的秩序》
@@ -53,7 +53,7 @@ TODO
 - 《Kubernetes in Action中文版》
 - 《Docker实践(第3部分)：Docker与DevOps 》
 
-### No-fiction
+### Non-fiction
 
 - [《日本世相系列：饱食穷民》](https://m.douban.com/book/subject/34895571/)
 - [《日本世相系列：妻子们的思秋期》](https://book.douban.com/subject/34894713/)
