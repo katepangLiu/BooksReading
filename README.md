@@ -57,6 +57,7 @@ TODO
 
 - [《日本世相系列：饱食穷民》](https://m.douban.com/book/subject/34895571/)
 - [《日本世相系列：妻子们的思秋期》](https://book.douban.com/subject/34894713/)
+- 《最好的告别》(Being Mortal: Medicine and What Matters in the End)
 
 ### Fiction
 
