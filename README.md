@@ -52,6 +52,7 @@ TODO
 - 《深入理解java虚拟机:JVM高级特性与最佳实践》
 - 《Kubernetes in Action中文版》
 - 《Docker实践(第3部分)：Docker与DevOps 》
+- [kubernetes-operators](https://developers.redhat.com/books/kubernetes-operators)
 
 ### Non-fiction
 
