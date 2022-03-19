@@ -1,8 +1,57 @@
 # Books
 
-## Before 2020
+## 2022
 
-TODO
+## IT
+
+《深入理解Nginx:模块开发与架构解析(第2版)》
+
+## Others
+
+《人间值得》
+
+《西尔斯怀孕百科》
+
+《怀孕这件大事儿》
+
+## Fiction
+
+《焦虑的人》(弗雷德里克-巴克曼)
+
+《外婆的道歉》(弗雷德里克-巴克曼)
+
+《人生清单》(弗雷德里克-巴克曼)
+
+《长长的回家路》(弗雷德里克-巴克曼)
+
+
+
+## 2021
+
+### IT
+
+- [FMC - The Apache Modeling Project](http://www.fmc-modeling.org/projects/apache)
+- [WebRTC For The Curious](https://webrtcforthecurious.com/)
+- 《深入理解java虚拟机:JVM高级特性与最佳实践》
+- 《Kubernetes in Action中文版》
+- 《Docker实践(第3部分)：Docker与DevOps 》
+- [kubernetes-operators](https://developers.redhat.com/books/kubernetes-operators)
+
+### Others
+
+- [《日本世相系列：饱食穷民》](https://m.douban.com/book/subject/34895571/)
+- [《日本世相系列：妻子们的思秋期》](https://book.douban.com/subject/34894713/)
+- 《最好的告别》(Being Mortal: Medicine and What Matters in the End)
+
+### Fiction
+
+- [《伟大的孤独》]( https://book.douban.com/subject/35172354/)
+- [《放学后》](https://m.douban.com/book/subject/4074636/) (东野圭吾)
+- 《幻夜》 (东野圭吾)
+- [《项塔兰》](https://book.douban.com/subject/3673771/) 
+- 《月亮与六便士》
+- 《树语》(The Overstory)
+- 《古董局中局-全四部》(马伯庸)
 
 
 
@@ -20,7 +69,7 @@ TODO
 - 《编码:隐匿在计算机软硬件背后的语言》 
 - [《Web性能权威指南》](https://book.douban.com/subject/25856314/)
 
-### Non-fiction
+### Others
 
 - 《人类简史》
 - 《时间的秩序》
@@ -43,32 +92,7 @@ TODO
 - 《光明共和国》
 - 《你当像鸟飞向你的山》
 
-## 2021
+## Before 2020
 
-### IT
-
-- [FMC - The Apache Modeling Project](http://www.fmc-modeling.org/projects/apache)
-- [WebRTC For The Curious](https://webrtcforthecurious.com/)
-- 《深入理解java虚拟机:JVM高级特性与最佳实践》
-- 《Kubernetes in Action中文版》
-- 《Docker实践(第3部分)：Docker与DevOps 》
-- [kubernetes-operators](https://developers.redhat.com/books/kubernetes-operators)
-
-### Non-fiction
-
-- [《日本世相系列：饱食穷民》](https://m.douban.com/book/subject/34895571/)
-- [《日本世相系列：妻子们的思秋期》](https://book.douban.com/subject/34894713/)
-- 《最好的告别》(Being Mortal: Medicine and What Matters in the End)
-
-### Fiction
-
-- [《伟大的孤独》]( https://book.douban.com/subject/35172354/)
-
-- [《放学后》](https://m.douban.com/book/subject/4074636/) 东野圭吾
-- 《幻夜》 东野圭吾
-- [《项塔兰》](https://book.douban.com/subject/3673771/) 
-- 《月亮与六便士》
-- 《树语》(The Overstory)
-
-
+TODO
 
