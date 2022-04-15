@@ -6,7 +6,11 @@
 
 《深入理解Nginx:模块开发与架构解析(第2版)》
 
+[Programming Kubernetes: Developing Cloud-Native Applications](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
+
 ## Others
+
+《自卑与超越》
 
 《人间值得》
 
