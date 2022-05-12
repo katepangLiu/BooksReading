@@ -5,7 +5,8 @@
 ## IT
 
 - 《深入理解Nginx:模块开发与架构解析(第2版)》
-- [Programming Kubernetes: Developing Cloud-Native Applications](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
+- [Programming Kubernetes: Developing Cloud-Native Applications](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/) by Michael Hausenblas, Stefan Schimanski
+- [Container Networking](https://www.oreilly.com/library/view/container-networking/9781492036845/) by Michael Hausenblas
 
 ## Others
 
