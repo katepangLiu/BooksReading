@@ -8,6 +8,7 @@
 - [Programming Kubernetes: Developing Cloud-Native Applications](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/) by Michael Hausenblas, Stefan Schimanski
 - [Container Networking](https://www.oreilly.com/library/view/container-networking/9781492036845/) by Michael Hausenblas
 - 《OpenResty 完全开发指南》
+- [《OpenResty 最佳实践》](https://moonbingbing.gitbooks.io/openresty-best-practices/content/)
 
 ## Others
 
