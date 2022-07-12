@@ -33,6 +33,7 @@
 - 《闪闪发光的人生》(小川糸)
 - 《狮子之家的点心日》(小川糸)
 - 《蜗牛食堂》(小川糸)
+- [1984 *by George Orwell*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
 
 
 
