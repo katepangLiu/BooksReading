@@ -9,6 +9,7 @@
 - [Container Networking](https://www.oreilly.com/library/view/container-networking/9781492036845/) by Michael Hausenblas
 - 《OpenResty 完全开发指南》
 - [《OpenResty 最佳实践》](https://moonbingbing.gitbooks.io/openresty-best-practices/content/)
+- [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
 
 ## Others
 
@@ -36,6 +37,7 @@
 - 《狮子之家的点心日》(小川糸)
 - 《蜗牛食堂》(小川糸)
 - [1984 *by George Orwell*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+- 《刀锋》（毛姆）
 
 
 
