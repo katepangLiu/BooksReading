@@ -4,12 +4,13 @@
 
 ## IT
 
-- 《深入理解Nginx:模块开发与架构解析(第2版)》
+
 - [Programming Kubernetes: Developing Cloud-Native Applications](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/) by Michael Hausenblas, Stefan Schimanski
 - [Container Networking](https://www.oreilly.com/library/view/container-networking/9781492036845/) by Michael Hausenblas
+- [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
+- 《深入理解Nginx:模块开发与架构解析(第2版)》
 - 《OpenResty 完全开发指南》
 - [《OpenResty 最佳实践》](https://moonbingbing.gitbooks.io/openresty-best-practices/content/)
-- [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
 
 ## Others
 
@@ -22,7 +23,6 @@
 - 《置身事内：中国政府与经济发展》(兰小欢)
 - 《乌合之众》（古斯塔夫·勒庞）
 - 《有限管教》（[日] 三谷宏治）
-- 《人间失格》（太宰治）
 
 ## Fiction
 
@@ -36,7 +36,10 @@
 - 《闪闪发光的人生》(小川糸)
 - 《狮子之家的点心日》(小川糸)
 - 《蜗牛食堂》(小川糸)
+- 《人间失格》（太宰治）
 - [1984 *by George Orwell*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+- 《黄金时代》王小波
+- 《台北人》白先勇
 - 《刀锋》（毛姆）
 
 
